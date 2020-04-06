@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crown.CloudEvents.EventTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-06T21:35:19" hostname="Guans-MacBook-Pro.local" time="0.584">
+  <properties/>
+  <testcase name="deSerializationPayload" classname="com.crown.CloudEvents.EventTest" time="0.584"/>
+  <system-out><![CDATA[{"data":"Hello World","id":"629edb65-5e65-42ba-af70-29a82aa4be89","source":"com.crown.CloudEvents","specversion":"1.0","type":"string","subject":"1085bbc3-f70f-4c24-b80a-48415d62c72d","time":"2020-04-06T17:35:19.815-04:00","ce-contentVersion":"1.0"}
+com.crown.CloudEvents.Event@4d90e00d
+]]></system-out>
+  <system-err><![CDATA[Apr 06, 2020 5:35:19 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 6.0.17.Final
+]]></system-err>
+</testsuite>
